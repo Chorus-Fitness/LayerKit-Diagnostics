@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AA91B8161D74F6E600376BA0 /* LayerKitDiagnostics.h in Headers */ = {isa = PBXBuildFile; fileRef = AA91B8151D74F6E600376BA0 /* LayerKitDiagnostics.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AA91B81F1D74F7CF00376BA0 /* LYRDEmailDiagnosticsViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = AA91B81D1D74F7CF00376BA0 /* LYRDEmailDiagnosticsViewController.h */; };
+		AA91B81F1D74F7CF00376BA0 /* LYRDEmailDiagnosticsViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = AA91B81D1D74F7CF00376BA0 /* LYRDEmailDiagnosticsViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AA91B8201D74F7CF00376BA0 /* LYRDEmailDiagnosticsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA91B81E1D74F7CF00376BA0 /* LYRDEmailDiagnosticsViewController.m */; };
 		AA91B8221D75FAC600376BA0 /* Pods_LayerKitDiagnostics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA91B8211D75FAC600376BA0 /* Pods_LayerKitDiagnostics.framework */; };
 		AA91B8281D764DE700376BA0 /* LayerKitDiagnostics.m in Sources */ = {isa = PBXBuildFile; fileRef = AA91B8271D764DE700376BA0 /* LayerKitDiagnostics.m */; };
